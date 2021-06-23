@@ -64,12 +64,12 @@ Module 3: Network Topologies
 [x] Module 3 Review 49s
 
 Module 4: Network Services
-[ ] Network Services: Introduction 57s
-[ ] Virtual Private Networks 7m 29s
-[ ] Web Services 5m 28s
-[ ] Voice Services 6m 38s
-[ ] DHCP 2m 51s
-[ ] DNS 5m 30s
-[ ] NAT 11m 34s
-[ ] Module 4 Review 51s
+[x] Network Services: Introduction 57s
+[x] Virtual Private Networks 7m 29s
+[x] Web Services 5m 28s
+[x] Voice Services 6m 38s
+[x] HCP 2m 51s
+[x] DNS 5m 30s
+[x] NAT 11m 34s
+[x] Module 4 Review 51s
 ```
