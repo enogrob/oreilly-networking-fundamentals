@@ -31,37 +31,37 @@ Module 1: Protocol Reference Models
 [x] Module 1 Review 35s
 
 Module 2: Network Devices and Theory
-[ ] Network Devices and Theory: Introduction 43s
-[ ] Analog Modems 5m 4s
-[ ] Common Network Infrastructure Devices 14m 53s
-[ ] Collision Domains 5m 8s
-[ ] Broadcast Domains 3m 19s
-[ ] Wireless Access Points 3m 26s
-[ ] Firewalls 9m 51s
-[ ] Intrusion Detection Devices 7m 18s
-[ ] Network Appliances 6m 56s
-[ ] Module 2 Review 47s
+[x] Network Devices and Theory: Introduction 43s
+[x] Analog Modems 5m 4s
+[x] Common Network Infrastructure Devices 14m 53s
+[x] Collision Domains 5m 8s
+[x] Broadcast Domains 3m 19s
+[x] Wireless Access Points 3m 26s
+[x] Firewalls 9m 51s
+[x] Intrusion Detection Devices 7m 18s
+[x] Network Appliances 6m 56s
+[x] Module 2 Review 47s
 
 Module 3: Network Topologies
-[ ] Network Topologies: Introduction 52s
-[ ] Hub and Spoke 1m 46s
-[ ] Full Mesh 4m 6s
-[ ] Partial Mesh 2m 31s
-[ ] Ring 3m 51s
-[ ] Bus 4m 41s
-[ ] Star 1m 18s
-[ ] Point-to-Point 3m 13s
-[ ] Point-to-Multipoint 3m 8s
-[ ] Hybrid 1m 43s
-[ ] Client-Server 1m 44s
-[ ] Peer-to-Peer 2m 18s
-[ ] LAN 4m 12s
-[ ] WAN 2m 36s
-[ ] MAN 3m 26s
-[ ] WLAN 5m 17s
-[ ] PAN 1m 28s
-[ ] SCADA 3m 53s
-[ ] Module 3 Review 49s
+[x] Network Topologies: Introduction 52s
+[x] Hub and Spoke 1m 46s
+[x] Full Mesh 4m 6s
+[x] Partial Mesh 2m 31s
+[x] Ring 3m 51s
+[x] Bus 4m 41s
+[x] Star 1m 18s
+[x] Point-to-Point 3m 13s
+[x] Point-to-Multipoint 3m 8s
+[x] Hybrid 1m 43s
+[x] Client-Server 1m 44s
+[x] Peer-to-Peer 2m 18s
+[x] LAN 4m 12s
+[x] WAN 2m 36s
+[x] MAN 3m 26s
+[x] WLAN 5m 17s
+[x] PAN 1m 28s
+[x] SCADA 3m 53s
+[x] Module 3 Review 49s
 
 Module 4: Network Services
 [ ] Network Services: Introduction 57s
